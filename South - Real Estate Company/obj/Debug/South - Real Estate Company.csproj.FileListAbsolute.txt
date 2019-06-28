@@ -1,0 +1,56 @@
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\South - Real Estate Company.dll.config
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\South - Real Estate Company.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\South - Real Estate Company.pdb
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\csc.exe
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\csc.exe.config
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\csc.rsp
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\csi.exe
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\csi.exe.config
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\csi.rsp
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.AppContext.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.Console.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.IO.Compression.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.Security.Claims.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.ValueTuple.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\vbc.exe
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\vbc.exe.config
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\vbc.rsp
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\VBCSCompiler.exe
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\obj\Debug\South - Real Estate Company.csprojAssemblyReference.cache
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\obj\Debug\South - Real Estate Company.csproj.CoreCompileInputs.cache
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\obj\Debug\South - Real Estate Company.csproj.CopyComplete
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\obj\Debug\South - Real Estate Company.dll
+C:\Users\nhsha\source\repos\South - Real Estate Company\South - Real Estate Company\obj\Debug\South - Real Estate Company.pdb
